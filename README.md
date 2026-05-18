@@ -1,4 +1,4 @@
-# EVO-MOE + Gemma 4 · Prospective AMR Intelligence
+# EVO-MOE + Gemma 4 · AMR Surveillance and Forecasting Intelligence for the Global South
 
 [![Gemma 4](https://img.shields.io/badge/Gemma_4-E4B_%2B_27B-blue)](https://ai.google.dev/gemma)
 [![llama.cpp](https://img.shields.io/badge/llama.cpp-Q4__K__M_GGUF-green)](https://github.com/ggerganov/llama.cpp)
@@ -13,20 +13,24 @@
 
 ## Links
 
-- **Video:** [YouTube](https://youtu.be/YOUR_LINK)
+- **Video:** [YouTube](https://youtu.be/10D-NGIC2Tw?si=VBbWsNj6z1MZh2qx)
 - **Live demo:** [huggingface.co/spaces/snehakarki/evomoe](https://huggingface.co/spaces/snehakarki/evomoe)
 - **LoRA adapter:** [huggingface.co/snehakarki/evomoe-gemma4-lora](https://huggingface.co/snehakarki/evomoe-gemma4-lora)
 - **Merged weights:** [huggingface.co/snehakarki/evomoe-gemma4-merged](https://huggingface.co/snehakarki/evomoe-gemma4-merged)
 - **GGUF (on-device):** [huggingface.co/snehakarki/evomoe-gemma4-e4b-gguf](https://huggingface.co/snehakarki/evomoe-gemma4-e4b-gguf)
-- **Kaggle notebook:** [kaggle.com/snehakarki/evomoe-gemma4-demo](https://kaggle.com/snehakarki/evomoe-gemma4-demo)
+- **Kaggle notebook:** [kaggle.com/snehakarki/evomoe-gemma4-demo](https://www.kaggle.com/code/snehakarkiii/evomoe-kaggle-code)
+
 
 ---
 
 ## The problem
 
-My mother has recurring UTIs. Every few months, back at the pharmacy in Kathmandu. The doctor prescribes the same antibiotic. Lately it doesn't work. I study antimicrobial resistance. I know what her doctor doesn't: the drug is failing because the resistance has shifted. But no dashboard, no report tells her doctor that — not until months later, describing what happened last year.
+When a doctor prescribes an antibiotic, they assume it works. For most of medical history, that assumption was safe. Today it increasingly is not.
+Bacteria evolve. The resistant strains survive. Over decades of overuse — in hospitals, farms, and pharmacies — we have created a silent emergency.
 
-38.5 million people will die from drug-resistant infections by 2050 [1]. Every AMR surveillance system reports last year. None forecasts next year. The bottleneck is not data — lab reports exist in every hospital. The problem is they are unstructured text, never automatically converted into the records WHO surveillance requires.
+This is EVO-MOE.
+
+38.5 million people will die from drug-resistant infections by 2050 [1]— most of them in the Global South, where surveillance is three months late by design. Every AMR surveillance system reports last year. None forecasts next year. The bottleneck is not data — lab reports exist in every hospital. The problem is they are unstructured text, never automatically converted into the records WHO surveillance requires.
 
 ---
 
