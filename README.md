@@ -14,7 +14,7 @@
 ## Links
 
 - **Video:** [YouTube](https://youtu.be/10D-NGIC2Tw?si=VBbWsNj6z1MZh2qx)
-- **Live demo:** [huggingface.co/spaces/snehakarki/evomoe](https://huggingface.co/spaces/snehakarki/evomoe)
+- **Live demo:** [https://inquisitive-dragon-189df8.netlify.app/](https://inquisitive-dragon-189df8.netlify.app/)
 - **LoRA adapter:** [huggingface.co/snehakarki/evomoe-gemma4-lora](https://huggingface.co/snehakarki/evomoe-gemma4-lora)
 - **Merged weights:** [huggingface.co/snehakarki/evomoe-gemma4-merged](https://huggingface.co/snehakarki/evomoe-gemma4-merged)
 - **GGUF (on-device):** [huggingface.co/snehakarki/evomoe-gemma4-e4b-gguf](https://huggingface.co/snehakarki/evomoe-gemma4-e4b-gguf)
